@@ -13,5 +13,5 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/31508998/saurav-gupta/',
   leetcode: "https://leetcode.com/u/heysauravgupta/",
   devUsername: "saurav_kumar_72214980ebf2",
-  resume: "https://drive.google.com/file/d/1C_GOJkmJN4ZItO0aKDFZAq6G0IWU-AkK/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1vnfWf0sCknLOx0Evyfhoa6gt44dwTnpL/view?usp=drive_link"
 }
